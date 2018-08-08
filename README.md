@@ -4,14 +4,13 @@ Rest Full Api Chat App using Django Rest Framework
 
 ## Getting Started
 
-Install  djongo first to use Mongo Db Engine.
+Install psycopg2 first to use Postgres SQL Db Engine.
 
 ```
-pip install djongo
+pip install psycopg2
 ```
-After that, create database in mongo and give database name with *chatapp*.
+After that, create database in postgress and give database name with *apiwhatsapp*.
 
 ## Requirements
 
 * Python 3.6 or higher.
-* MongoDB 3.4 or higher.
